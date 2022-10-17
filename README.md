@@ -6,7 +6,7 @@ I am a Full Stack Software Developer 💻 and Information Technology enthusiast.
 I have been actively working in the IT Industry as Software Engineer since 2017.
 
 <div>
-   <b>Language:</b><br/>
+   <b>Languages:</b><br/>
  
    ![image](https://user-images.githubusercontent.com/12619793/196091030-306b3139-46c1-42b7-b119-e7bf8cd133e4.png)
    ![image](https://user-images.githubusercontent.com/12619793/196091073-961769fd-258b-451a-b86c-464dce0d74a1.png)
