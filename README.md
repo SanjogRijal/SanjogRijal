@@ -22,7 +22,7 @@ I have been actively working in the IT Industry as Software Engineer since 2017.
    <ul style = "list-style-type: square">
       <li><b>ExpressJS/NodeJS [Javascript, Typescript]</b><br/></li>
       <li><b>ReactJS [Javascript, Typescript]</b><br/></li>
-      <li><b>Angular2+ [Javascript, Typescript]
+      <li>[<b>Angular2+ [Javascript, Typescript]](https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg)</li>
       <li><b>Django [Python]</b><br/></li>
       <li><b>Laravel [PHP]</b><br/></li>
       <li><b>TensorflowJS [Javascript]</b><br/></li>
