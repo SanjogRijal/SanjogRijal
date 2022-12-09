@@ -1,5 +1,5 @@
 <div id="header" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100vw" />
+      <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100vw" />
       <h1> Sanjog Rijal's Github Repository </h1>
       <div id="badges">
             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
@@ -9,7 +9,6 @@
                   <img src="https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress" alt="Wordpress Badge"/>
             </a> 
       </div>
-      <img src="https://komarev.com/ghpvc/?username=SanjogRijal&style=flat-square&color=blue" alt=""/>
 </div>
 
 <section class="introduction">
@@ -46,35 +45,37 @@
 
 <div>   
    <h2><b>Languages:</b></h2><br/>
-   <img src="https://user-images.githubusercontent.com/12619793/196091030-306b3139-46c1-42b7-b119-e7bf8cd133e4.png"/> 
-<!--    ![image](https://user-images.githubusercontent.com/12619793/196091030-306b3139-46c1-42b7-b119-e7bf8cd133e4.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196091073-961769fd-258b-451a-b86c-464dce0d74a1.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196091100-9bfdfb10-63e3-4ffd-8041-da94a68107be.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196091139-83adf4df-cd16-42fe-bee3-867f0cb48526.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196091338-c39a30c4-767a-4db5-9986-8d27f95e8b60.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196091391-037b9abc-1f0e-4de5-a9a3-9f0afee30cd8.png) -->
-   
-   
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    
 </div><br/>
 
 <div>
-   <h2><b>Frameworks:</b></h2><br/>
-   
-   ![image](https://user-images.githubusercontent.com/12619793/196092637-d3c368b7-1692-4f5e-8832-9e2ae03b5bf1.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196092502-2206b9bf-9791-417b-b23b-87f4f1648266.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196092754-8875d865-fe00-4264-8fb5-10d7231d9752.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196097024-92bf57d5-1a1b-4517-9b11-4e2387bea4f9.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196097088-7bd173ab-92d0-4101-afc3-89745afa44cf.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196097150-14771cfd-5078-40d1-bbaf-daaac582c2df.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196096635-ae3df447-8652-409d-97a5-cfd24105c7a2.png)
-
-
+   <h2><b>Backend Frameworks/Libraries:</b></h2><br/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS"/>
+      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      
 </div><br/>
 
-
+<div>
+      <h2><b>Frontend Frameworks/Libraries: </b></h2><br/>
+       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SaaS"/>
+      <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"/>
+      <img src="https://camo.githubusercontent.com/1f5f68e620347faca4468de78e86fa31d54e44195f91ddcf788c49b5ce9194ca/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c656374726f6e26636f6c6f723d343738343846266c6f676f3d456c656374726f6e266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="ElectronJS"/>
 <div>
    <h2><b> Database Technologies: </b><br/></h2>
-   
    ![image](https://user-images.githubusercontent.com/12619793/196097211-f9d10c64-2d36-4bde-9139-2c7070178c96.png)
    ![image](https://user-images.githubusercontent.com/12619793/196097255-0558188f-9fba-4089-8d60-25b76d4ed418.png)
    ![image](https://user-images.githubusercontent.com/12619793/196096378-40ac59fe-d517-4c97-8e10-6c8c264f1dca.png)
