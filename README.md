@@ -7,8 +7,8 @@
 </div>
 
 <section class="introduction">
-      <div align="center">
-            <p border="1px solid white" background="#dfdfdf">
+      <div align="center" style="border: 1px solid #dfdfdf; background-color: #dfdfdf">
+            <p>
                   <b>Hello There 👋</b><br/>
                   I am Sanjog Rijal. 🙏
                   I am a Full Stack Software Engineer 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
