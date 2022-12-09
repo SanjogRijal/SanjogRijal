@@ -23,7 +23,7 @@
             </p>
       </div>
       <div class="github-stats">
-      <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true" />
+      <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true&theme=synthwave" />
 </div>
 </section>
 <div align="center">
