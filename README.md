@@ -3,7 +3,7 @@
       <h1> Sanjog Rijal's Github Repository </h1>
       <div id="badges">
             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
-                  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                  <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
             <a href="https://sanjogrizal.wordpress.com">
                   <img src="https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress" alt="Wordpress Badge"/>
@@ -11,8 +11,8 @@
       </div>
 </div>
 
-<section class="introduction">
-      <div align="center">
+<section class="introduction"  align="center">
+      <div>
             <p>
                   <b>Hello There 👋</b><br/>
                   I am Sanjog Rijal. 🙏
@@ -22,6 +22,9 @@
                   Feel free to browse through my Public Repositories.
             </p>
       </div>
+      <div class="github-stats">
+      <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true" />
+</div>
 </section>
 
 <div>
@@ -189,5 +192,20 @@
             </div>  
       </div>
 </div>
+
+<footer class="social-media">
+      <div>
+            <h2><b>Connect With Me</b></h2>
+             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+                  <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            </a>
+            <a href="https://www.facebook.com/sanjog.rizal">
+                  <img src="https://img.shields.io/badge/Facebook-Sanjog Rijal-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+            </a>
+            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+                  <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            </a>
+      </div>
+</footer>
 
 <!-- <div style = "visibility: hidden">Greek question mark;</div> -->
