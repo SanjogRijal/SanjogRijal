@@ -10,14 +10,16 @@
  
 </div>
 
-<pre><b>Hello There 👋</b><br/>
-I am Sanjog Rijal. 🙏
-I am a Full Stack Software Engineer 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
-I have been actively working in the IT Industry as Software Engineer for half a decade.
-Below is a brief summary of the Tools and Technologies I am working on, have worked on or have interest in 😄
-Feel free to browse through my Public Repositories.
-</pre>
-
+<section class="introduction">
+      <div align="center">
+            <b>Hello There 👋</b><br/>
+                  I am Sanjog Rijal. 🙏
+                  I am a Full Stack Software Engineer 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
+                  I have been actively working in the IT Industry as Software Engineer for half a decade.
+                  Below is a brief summary of the Tools and Technologies I am working on, have worked on or have interest in 😄
+                  Feel free to browse through my Public Repositories.
+      </div>
+</section>
 
 <div>
     <h2><b>Technical and Conceptual Skills and Interests:</b></h2><br/>
