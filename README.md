@@ -7,7 +7,7 @@
 </div>
 
 <section class="introduction">
-      <div align="center" style="border: 1px solid #dfdfdf; background-color: #dfdfdf">
+      <div align="center">
             <p>
                   <b>Hello There 👋</b><br/>
                   I am Sanjog Rijal. 🙏
