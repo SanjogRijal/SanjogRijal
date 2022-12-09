@@ -87,12 +87,22 @@
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"
 </div>
       
+<div class="testing-libraries" align="center">
+      <h2>Testing Libraries</h2>
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="JEST"/>
+      <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"/>
+      <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" alt="Chai"/>
+      <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/>
+      <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+      </div>
+      
 <div  align="center" class="package-managers">
       <h2><b>NodeJS Dependency Managers</b></h2><br/>
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
       <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"/>
-      <img src="" alt="pip"
 </div>
+      
+   
       
 <div  align="center" class="operating-systems">
       <h2><b>Operating System</b></h2></br>
@@ -120,13 +130,14 @@
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </div>
-<!--    <h2><b> Database Technologies: </b><br/></h2>
-   ![image](https://user-images.githubusercontent.com/12619793/196096378-40ac59fe-d517-4c97-8e10-6c8c264f1dca.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196098514-e02f2913-1ed4-4dc7-8bee-499460abfded.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196097356-0a434d60-5430-4caa-a0cc-7f14f27abac4.png)
 
+<div class="DevOps">
+      <h2><b>DevOps</b></h2><br/>
+      <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab CI"/>
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions"/>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS"/>
 </div>
-
+      <!--  
 <div> 
    <h2><b> Tools and Technologies </b><br/></h2>
    
