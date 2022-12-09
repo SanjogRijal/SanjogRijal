@@ -4,15 +4,20 @@
        <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
        </a>
-      
-       <b>Hello There 👋</b><br/>
+</div>
+
+<section class="introduction">
+      <div align="center">
+            <p>
+                  <b>Hello There 👋</b><br/>
                   I am Sanjog Rijal. 🙏
                   I am a Full Stack Software Engineer 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
                   I have been actively working in the IT Industry as Software Engineer for half a decade.
                   Below is a brief summary of the Tools and Technologies I am working on, have worked on or have interest in 😄
                   Feel free to browse through my Public Repositories.
-</div>
-
+            </p>
+      </div>
+</section>
 
 <div>
     <h2><b>Technical and Conceptual Skills and Interests:</b></h2><br/>
