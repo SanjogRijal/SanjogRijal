@@ -1,5 +1,7 @@
-<h1> Sanjog Rijal Github Repository </h1>
-
+<div id="header" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+      <h1> Sanjog Rijal Github Repository </h1>
+</div>
 <pre><b>Hello There 👋</b><br/>
 I am Sanjog Rijal. 🙏
 I am a Full Stack Software Engineer 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
