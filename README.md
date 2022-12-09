@@ -1,6 +1,8 @@
 <div id="header" align="center">
-      <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100vw" />
       <h1> Sanjog Rijal's Github Repository </h1>
+      <div class="github-stats">
+            <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true&theme=synthwave" />
+      </div>
       <div id="badges">
             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150" target="_blank">
                   <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,9 +23,7 @@
                   Feel free to browse through my Public Repositories.
             </pre></p>
       </div>
-      <div class="github-stats">
-      <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true&theme=synthwave" />
-</div>
+     
 </section>
 <div align="center">
      
