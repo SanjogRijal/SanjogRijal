@@ -2,10 +2,10 @@
       <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100vw" />
       <h1> Sanjog Rijal's Github Repository </h1>
       <div id="badges">
-            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150" target="_blank">
                   <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
-            <a href="https://sanjogrizal.wordpress.com">
+            <a href="https://sanjogrizal.wordpress.com" target="_blank">
                   <img src="https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress" alt="Wordpress Badge"/>
             </a> 
       </div>
@@ -26,28 +26,9 @@
       <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true" />
 </div>
 </section>
-
-<div>
-    <h2 align="center"><b>Technical and Conceptual Skills and Interests:</b></h2><br/>
-    <ul>
-       <li> Problem Solving </li>
-       <li> Functional Programming </li> 
-       <li> Object Oriented Programming </li>
-       <li> Data Structures and Design & Analysis of Algorithm </li>
-          <li> Project Management [Agile/Scrum/Kanban/Waterfall]</li>
-       <li> Computer Organization and Architecture/Assembly Language </li>
-       <li> System Analysis and Design and OOAD </li>
-       <li> Design Principles and Patterns </li>
-       <li> Software Engineering and Architecture </li>
-       <li> Web Development </li> 
-       <li> Operating Systems and Networking </li>
-       <li> Cyber Security </li>
-       <li> CI/CD & DevOps </li> 
-       <li> Artificial Intelligence and Machine Learning </li>
-    </ul>
-</div>
-
-<div  align="center">   
+<div align="center">
+     
+<div  align="center">
    <h2><b>Languages:</b></h2><br/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
    <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
@@ -196,16 +177,17 @@
 <footer class="social-media">
       <div>
             <h2><b>Connect With Me</b></h2>
-             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150" target="_blank">
                   <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
-            <a href="https://www.facebook.com/sanjog.rizal">
+            <a href="https://www.facebook.com/sanjog.rizal" target="_blank">
                   <img src="https://img.shields.io/badge/Facebook-Sanjog Rijal-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
             </a>
-            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+<!--             <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
                   <img src="https://img.shields.io/badge/LinkedIn-Sanjog Rijal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
+            </a> -->
       </div>
 </footer>
+</div>
 
 <!-- <div style = "visibility: hidden">Greek question mark;</div> -->
