@@ -1,15 +1,15 @@
 <div id="header" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100vw" />
       <h1> Sanjog Rijal's Github Repository </h1>
-       <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-       </a>
-      
-         <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
-            <img src="https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress" alt="Wordpress Badge"/>
-       </a>
-      
-
+      <div id="badges">
+            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+                  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            </a>
+            
+            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+                  <img src="https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress" alt="Wordpress Badge"/>
+            </a> 
+      </div>
 </div>
 
 <section class="introduction">
