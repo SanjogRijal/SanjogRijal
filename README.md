@@ -6,7 +6,7 @@
                   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
             
-            <a href="https://www.linkedin.com/in/sanjog-rijal-421a28150">
+            <a href="https://sanjogrizal.wordpress.com">
                   <img src="https://img.shields.io/badge/wordpress-0073aa?style=for-the-badge&logo=wordpress" alt="Wordpress Badge"/>
             </a> 
       </div>
