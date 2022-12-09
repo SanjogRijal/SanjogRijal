@@ -16,7 +16,7 @@
             <p>
                   <b>Hello There 👋</b><br/>
                   I am Sanjog Rijal. 🙏
-                  I am a Full Stack Software Engineer 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
+                  I am a Full Stack Software Engineer [MEAN, MERN, ELK, LAMP] 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
                   I have been actively working in the IT Industry as Software Engineer for half a decade.
                   Below is a brief summary of the Tools and Technologies I am working on, have worked on or have interest in 😄
                   Feel free to browse through my Public Repositories.
@@ -25,7 +25,7 @@
 </section>
 
 <div>
-    <h2><b>Technical and Conceptual Skills and Interests:</b></h2><br/>
+    <h2 align="center"><b>Technical and Conceptual Skills and Interests:</b></h2><br/>
     <ul>
        <li> Problem Solving </li>
        <li> Functional Programming </li> 
@@ -43,7 +43,7 @@
     </ul>
 </div>
 
-<div>   
+<div  align="center">   
    <h2><b>Languages:</b></h2><br/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
@@ -56,7 +56,7 @@
     
 </div><br/>
 
-<div>
+<div  align="center">
    <h2><b>Backend Frameworks/Libraries:</b></h2><br/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS"/>
@@ -67,7 +67,7 @@
       
 </div><br/>
 
-<div>
+<div  align="center">
       <h2><b>Frontend Frameworks/Libraries: </b></h2><br/>
        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"
@@ -76,10 +76,10 @@
        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SaaS"/>
       <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"/>
       <img src="https://camo.githubusercontent.com/1f5f68e620347faca4468de78e86fa31d54e44195f91ddcf788c49b5ce9194ca/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c656374726f6e26636f6c6f723d343738343846266c6f676f3d456c656374726f6e266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="ElectronJS"/>
-<div>
+</div>
       
-<div class="component-libraries">
-      <h2><b>Component Libraries</b></h2><br/>
+<div class="component-libraries"  align="center">
+      <h2 align="center"><b>Component Libraries</b></h2><br/>
       <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
       <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -87,14 +87,14 @@
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"
 </div>
       
-<div class="package-managers">
+<div  align="center" class="package-managers">
       <h2><b>NodeJS Dependency Managers</b></h2><br/>
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
       <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"/>
       <img src="" alt="pip"
 </div>
       
-<div class="operating-systems">
+<div  align="center" class="operating-systems">
       <h2><b>Operating System</b></h2></br>
       <div class="Linux OS"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -109,9 +109,18 @@
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
       </div>
 </div>
+      
+<div align="center">
+      <h2 ><b>Database Technologies</b></h2>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
 <!--    <h2><b> Database Technologies: </b><br/></h2>
-   ![image](https://user-images.githubusercontent.com/12619793/196097211-f9d10c64-2d36-4bde-9139-2c7070178c96.png)
-   ![image](https://user-images.githubusercontent.com/12619793/196097255-0558188f-9fba-4089-8d60-25b76d4ed418.png)
    ![image](https://user-images.githubusercontent.com/12619793/196096378-40ac59fe-d517-4c97-8e10-6c8c264f1dca.png)
    ![image](https://user-images.githubusercontent.com/12619793/196098514-e02f2913-1ed4-4dc7-8bee-499460abfded.png)
    ![image](https://user-images.githubusercontent.com/12619793/196097356-0a434d60-5430-4caa-a0cc-7f14f27abac4.png)
