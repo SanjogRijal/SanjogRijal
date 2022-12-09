@@ -15,12 +15,11 @@
       <div>
             <p>
                   <b>Hello There 👋</b><br/>
-                  I am Sanjog Rijal. 🙏
-                  I am a Full Stack Software Engineer [MEAN, MERN, ELK, LAMP] 💻 and Information Technology enthusiast from Nepal 🇳🇵. 
-                  I have been actively working in the IT Industry as Software Engineer for half a decade.
-                  Below is a brief summary of the Tools and Technologies I am working on, have worked on or have interest in 😄
+                  <pre>I am Sanjog Rijal. 🙏
+                  I am a Full Stack Software Engineer 💻 from Nepal 🇳🇵. 
+                  I have been actively working in the IT Industry as Software Engineer for half a decade.                   
                   Feel free to browse through my Public Repositories.
-            </p>
+            </pre></p>
       </div>
       <div class="github-stats">
       <img align="center" alt="Sanjog Rijal Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjogRijal&show_icons=true&hide_border=true&theme=synthwave" />
