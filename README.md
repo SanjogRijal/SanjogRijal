@@ -31,6 +31,7 @@
        <li> Functional Programming </li> 
        <li> Object Oriented Programming </li>
        <li> Data Structures and Design & Analysis of Algorithm </li>
+          <li> Project Management [Agile/Scrum/Kanban/Waterfall]</li>
        <li> Computer Organization and Architecture/Assembly Language </li>
        <li> System Analysis and Design and OOAD </li>
        <li> Design Principles and Patterns </li>
