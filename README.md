@@ -6,10 +6,6 @@
        </a>
 </div>
 
-<div id="badges" align="center">
- 
-</div>
-
 <section class="introduction">
       <div align="center">
             <b>Hello There 👋</b><br/>
