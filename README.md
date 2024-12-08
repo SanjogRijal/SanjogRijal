@@ -79,17 +79,6 @@ I'm an enthusiastic and results-driven **Senior Software Engineer Level II** wit
 </p>
 
 ---
-
-### 👨‍💻 Projects
-
-Here are a few projects I’ve been working on:
-
-- **Project 1**: [Description and link]
-- **Project 2**: [Description and link]
-- **Project 3**: [Description and link]
-
-Feel free to check them out!
-
 ---
 
 ### 💬 Fun Fact
@@ -98,4 +87,4 @@ When I'm not coding, you can find me [playing guitar], [traveling], or [reading 
 
 ---
 
-🔗 [My Portfolio Website](https://your-portfolio-link.com)
+🔗 [My Portfolio Website](https://sanjogrijal.com)
