@@ -54,10 +54,6 @@ I'm an enthusiastic and results-driven **Senior Software Engineer Level II** wit
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjogrijal&show_icons=true&locale=en" alt="sanjogrijal" />
-</p>
-
-<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjogrijal&" alt="sanjogrijal" />
 </p>
 
